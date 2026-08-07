@@ -1,0 +1,7 @@
+slug: control-flow-flatten
+title: Control Flow Flatten
+category: reverse engineering
+difficulty: hard
+points: 400
+codec: fernet
+repo_url: https://github.com/picoclone/control-flow-flatten
